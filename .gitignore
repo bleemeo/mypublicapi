@@ -1,0 +1,12 @@
+*.pyc
+*.*.swp
+.*project
+db.sqlite3
+settings_local.py
+*.AppleDouble*
+celerybeat-schedule
+.pydevproject
+.settings/
+.idea/
+media/avatar/
+media/data

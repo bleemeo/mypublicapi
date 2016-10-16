@@ -1,0 +1,9 @@
+Django
+
+djangorestframework
+djangorestframework-jwt>=1.8.0
+
+django-extensions
+django-filter
+django-guardian
+drfdocs
